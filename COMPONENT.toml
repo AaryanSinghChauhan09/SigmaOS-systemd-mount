@@ -3,7 +3,7 @@ name = "SigmaOS-systemd-mount"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "systemd-mount component"
+description = "systemd mount"
 upstream = []
 
 [contract]
